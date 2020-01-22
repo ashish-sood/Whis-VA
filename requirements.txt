@@ -1,0 +1,10 @@
+aiml
+boto3
+google
+google-search-api
+playsound
+speechrecognition
+pyaudio
+python-aiml
+termcolor
+requests
